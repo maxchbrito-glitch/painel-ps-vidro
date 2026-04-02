@@ -1,8 +1,0 @@
-{
-  "name": "PS do Vidro",
-  "short_name": "PS Vidro",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f0f2f5",
-  "theme_color": "#dc2626"
-}
